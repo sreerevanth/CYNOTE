@@ -32,7 +32,7 @@ No hallucination. No outside knowledge. Just your notes, intelligently retrieved
 ## 🗂️ Project Structure
 
 ```
-agentic-rag/
+cynote/
 │
 ├── app.py              # Streamlit frontend + Gemma 3 API integration
 ├── ingest.py           # PDF ingestion → chunking → FAISS embedding
